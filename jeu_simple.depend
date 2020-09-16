@@ -1,0 +1,648 @@
+# depslib dependency file v1.0
+1539185641 source:d:\program files\codeblocks\_projects\jeu_simple\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple\police.h
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple\couleur.h
+
+1541782092 source:d:\program files\codeblocks\_projects\jeu_simple\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graphics.h"
+	"in-lib.h"
+
+1542319762 d:\program files\codeblocks\_projects\jeu_simple\in-lib.h
+
+1539182041 source:i:\_projects\jeu_simple\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1539182041 i:\_projects\jeu_simple\police.h
+
+1539182041 i:\_projects\jeu_simple\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1539182041 i:\_projects\jeu_simple\couleur.h
+
+1542963378 source:i:\_projects\jeu_simple\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"graphics.h"
+	"in-lib.h"
+
+1542965048 i:\_projects\jeu_simple\in-lib.h
+	<stdint.h>
+
+1539185641 source:f:\_projects\jeu_simple\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1539185641 f:\_projects\jeu_simple\police.h
+
+1539185641 f:\_projects\jeu_simple\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1539185641 f:\_projects\jeu_simple\couleur.h
+
+1543530208 source:f:\_projects\jeu_simple\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"graphics.h"
+	"in-lib.h"
+
+1543530724 f:\_projects\jeu_simple\in-lib.h
+	<stdint.h>
+
+1539182041 source:c:\users\eleves\desktop\jeu_simple\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1539182041 c:\users\eleves\desktop\jeu_simple\police.h
+
+1539182041 c:\users\eleves\desktop\jeu_simple\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1539182041 c:\users\eleves\desktop\jeu_simple\couleur.h
+
+1543572044 source:c:\users\eleves\desktop\jeu_simple\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"graphics.h"
+	"in-lib.h"
+
+1543572534 c:\users\eleves\desktop\jeu_simple\in-lib.h
+	<stdint.h>
+
+1539185641 source:f:\_projects\nouveau dossier\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1539185641 f:\_projects\nouveau dossier\police.h
+
+1539185641 f:\_projects\nouveau dossier\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1539185641 f:\_projects\nouveau dossier\couleur.h
+
+1543615576 source:f:\_projects\nouveau dossier\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"graphics.h"
+	"in-lib.h"
+
+1543615888 f:\_projects\nouveau dossier\in-lib.h
+	<stdint.h>
+
+1539185641 source:d:\program files\codeblocks\_projects\jeu_simple-0.1\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple-0.1\police.h
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple-0.1\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple-0.1\couleur.h
+
+1543650413 source:d:\program files\codeblocks\_projects\jeu_simple-0.1\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"graphics.h"
+	"in-lib.h"
+
+1543655089 d:\program files\codeblocks\_projects\jeu_simple-0.1\in-lib.h
+	<stdint.h>
+
+1539185641 source:c:\users\ewen\desktop\public\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1539185641 c:\users\ewen\desktop\public\police.h
+
+1539185641 c:\users\ewen\desktop\public\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1539185641 c:\users\ewen\desktop\public\couleur.h
+
+1543650413 source:c:\users\ewen\desktop\public\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"graphics.h"
+	"in-lib.h"
+
+1543664037 c:\users\ewen\desktop\public\in-lib.h
+	<stdint.h>
+
+1539185641 source:\\ewen-pc\users\ewen\desktop\public\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1539185641 \\ewen-pc\users\ewen\desktop\public\police.h
+
+1539185641 \\ewen-pc\users\ewen\desktop\public\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1539185641 \\ewen-pc\users\ewen\desktop\public\couleur.h
+
+1543650413 source:\\ewen-pc\users\ewen\desktop\public\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"graphics.h"
+	"in-lib.h"
+
+1543664037 \\ewen-pc\users\ewen\desktop\public\in-lib.h
+	<stdint.h>
+
+1539185641 source:d:\program files\codeblocks\_projects\jeu_simple-0.2\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple-0.2\police.h
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple-0.2\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple-0.2\couleur.h
+
+1543749764 source:d:\program files\codeblocks\_projects\jeu_simple-0.2\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"graphics.h"
+	"in-lib.h"
+	"menu_gui.h"
+	"editor.h"
+
+1543763537 d:\program files\codeblocks\_projects\jeu_simple-0.2\in-lib.h
+	<stdint.h>
+
+1543763729 d:\program files\codeblocks\_projects\jeu_simple-0.2\menu_gui.h
+	<stdint.h>
+
+1543763729 d:\program files\codeblocks\_projects\jeu_simple-0.2\editor.h
+	<stdint.h>
+
+1539185641 source:d:\program files\codeblocks\_projects\jeu_simple-0.3\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple-0.3\police.h
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple-0.3\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple-0.3\couleur.h
+
+1544134623 source:d:\program files\codeblocks\_projects\jeu_simple-0.3\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"graphics.h"
+	"in-lib.h"
+	"menu_gui.h"
+	"editor.h"
+
+1543961436 d:\program files\codeblocks\_projects\jeu_simple-0.3\in-lib.h
+	<stdint.h>
+
+1544135035 d:\program files\codeblocks\_projects\jeu_simple-0.3\menu_gui.h
+	<stdint.h>
+
+1543961196 d:\program files\codeblocks\_projects\jeu_simple-0.3\editor.h
+	<stdint.h>
+
+1539185362 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185362 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185362 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185362 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185362 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185362 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539185361 d:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_getenv.h
+	"SDL_stdinc.h"
+
+1539185641 source:d:\program files\codeblocks\_projects\jeu_simple-0.4\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple-0.4\police.h
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple-0.4\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1539185641 d:\program files\codeblocks\_projects\jeu_simple-0.4\couleur.h
+
+1544217255 source:d:\program files\codeblocks\_projects\jeu_simple-0.4\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"graphics.h"
+	"in-lib.h"
+	"menu_gui.h"
+	"editor.h"
+
+1544264579 d:\program files\codeblocks\_projects\jeu_simple-0.4\in-lib.h
+	<stdint.h>
+
+1544217585 d:\program files\codeblocks\_projects\jeu_simple-0.4\menu_gui.h
+	<stdint.h>
+
+1543961196 d:\program files\codeblocks\_projects\jeu_simple-0.4\editor.h
+	<stdint.h>
+
+1546103745 source:d:\ewen\projets\coding\_projects\jeu_simple-0.4\graphics.c
+	"police.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	"SDL_ttf.h"
+	"graphics.h"
+
+1539185641 d:\ewen\projets\coding\_projects\jeu_simple-0.4\police.h
+
+1539185641 d:\ewen\projets\coding\_projects\jeu_simple-0.4\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1546096002 d:\ewen\projets\coding\_projects\jeu_simple-0.4\couleur.h
+
+1544275427 source:d:\ewen\projets\coding\_projects\jeu_simple-0.4\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	"graphics.h"
+	"in-lib.h"
+	"menu_gui.h"
+	"editor.h"
+
+1546103055 d:\ewen\projets\coding\_projects\jeu_simple-0.4\in-lib.h
+	<stdint.h>
+
+1544217585 d:\ewen\projets\coding\_projects\jeu_simple-0.4\menu_gui.h
+	<stdint.h>
+
+1543961196 d:\ewen\projets\coding\_projects\jeu_simple-0.4\editor.h
+	<stdint.h>
+
+1546103962 source:d:\ewen\projets\coding\_projects\jeu_simple-0.5\graphics.c
+	"police.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	"SDL_ttf.h"
+	"graphics.h"
+
+1539185641 d:\ewen\projets\coding\_projects\jeu_simple-0.5\police.h
+
+1539185641 d:\ewen\projets\coding\_projects\jeu_simple-0.5\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1546096002 d:\ewen\projets\coding\_projects\jeu_simple-0.5\couleur.h
+
+1579601182 source:d:\ewen\projets\coding\_projects\jeu_simple-0.5\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	"graphics.h"
+	"in-lib.h"
+	"menu_gui.h"
+	"editor.h"
+
+1579601242 d:\ewen\projets\coding\_projects\jeu_simple-0.5\in-lib.h
+	<stdint.h>
+
+1579601257 d:\ewen\projets\coding\_projects\jeu_simple-0.5\menu_gui.h
+	<stdint.h>
+
+1579601244 d:\ewen\projets\coding\_projects\jeu_simple-0.5\editor.h
+	<stdint.h>
+

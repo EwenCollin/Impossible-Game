@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1539189241 source:d:\program files\codeblocks\_projects\dessins_divers\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+
+1539189241 d:\program files\codeblocks\_projects\dessins_divers\police.h
+
+1539189241 d:\program files\codeblocks\_projects\dessins_divers\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	"couleur.h"
+	"couleur.h"
+
+1539189241 d:\program files\codeblocks\_projects\dessins_divers\couleur.h
+
+1539432616 source:d:\program files\codeblocks\_projects\dessins_divers\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graphics.h"
+	"in-lib.h"
+
+1539432541 d:\program files\codeblocks\_projects\dessins_divers\in-lib.h
+
